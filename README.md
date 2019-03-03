@@ -1,3 +1,5 @@
+原文可见[W3C Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
+
 ## 提高网页可访问性的技巧
 
 这篇文章介绍一些能有助于你编写的网页内容让别人更容易访问的基本方法。这些方法是帮助你符合WCAG（Web Content Accessibility Guidelines 网页内容可访问性指导方案）要求的良好实践。
@@ -52,5 +54,3 @@
 
 ![保持内容简洁清晰](images/6.png)
  
-
-原文可见[W3C Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
