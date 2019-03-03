@@ -52,3 +52,5 @@
 
 ![保持内容简洁清晰](images/6.png)
  
+
+原文可见[W3C Tips for Getting Started Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/)
